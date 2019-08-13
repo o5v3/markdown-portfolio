@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Omar Diaz
+## Young Programmer. Student of Systems Engineering.
