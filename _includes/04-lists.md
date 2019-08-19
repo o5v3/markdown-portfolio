@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+* Video Games
+  * Danganronpa
+  * Ace Attorney
+  * Pokemon
+  * Final Fantasy
+* Technology
+* Knowledge
+* Fun
